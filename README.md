@@ -7,8 +7,6 @@
 
 <img src=".\doc\도담_동서대학교\도담_동서대학교_작품사진1.JPEG" alt="도담_동서대학교_작품사진1" style="zoom:10%;" /><img src=".\doc\도담_동서대학교\도담_동서대학교_작품사진2.png" alt="도담_동서대학교_작품사진2" style="zoom: 33%;" />
 
-[2. 도담_동서대학교_발표자료.ppt](doc\도담_동서대학교\2. 도담_동서대학교_발표자료.ppt)
-
 <video src="C:\Users\20201\Documents\GitHub\last_iccas\braille\doc\3. 도담_동서대학교_작품영상.mp4"></video>
 
 <img src=".\images\IMG_8786.JPG" alt="IMG_8786" style="zoom:25%;" /><img src=".\images\IMG_8787.JPG" alt="IMG_8787" style="zoom:25%;" />
